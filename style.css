@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+body {
+    background-color: #F3F2F7;
+}
+
+h2 {
+    h2 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+    }
+}
+
+.wrapp1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+    h1 {
+        font-size: 20px
+    }
+    a {
+        font-size: 20px;
+        color: black;
+        text-decoration: none;
+    }
+}
+
+.header {
+a {
+    padding-top: 30px;
+}
+h2 {
+    padding-top: 30px;
+}
+.img1 {
+    padding-top: 30px;
+}
+.img2 {
+    padding-top: 30px;
+}
+}
+.wrapper2 {
+    display: flex;
+}
+
+.box {
+    background-color: #299AB3;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+
+    h1 {
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+
+    }
+    p {
+       color: white;
+    }
+    button {
+        border-radius: 20px;
+        padding: 13px;
+        justify-content: space-between;
+        max-height: Fixed (46px);
+        background-color: #FFFFFF;
+        margin-top: 250px;
+        border: none;
+    }
+}
+
+.img3 {
+    border-radius: 30px;
+}
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.card {
+    text-align: center;
+    img {
+        width: 200px;
+    }
+}
+.cards2 {
+    border-radius: 24px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+
+    button {
+        background-color: #299AB3;
+        padding: 10px;
+        border-radius: 14px;
+        width: 100%;
+    }
+}
+
+.wrapper {
+    margin-left: 20px;
+    border-radius: 20px;
+    justify-content: space-between;
+    display: flex;
+    background-color: #299AB3;
+    h1 {
+        font-size: 40px;
+        color: white;
+        margin-left: 30px;
+    }
+    p {
+        margin-left: 30px;
+        margin-top: 20px;
+        color: white;
+        gap: 20px;
+    }
+    button {
+        margin-left: 30px;
+        border-radius: 30px;
+        width: 300px;
+        gap: 12px;
+        padding: 10px;
+        background-color:#024764;
+        margin-top: 200px;
+    }
+    input {
+        width: 300px;
+        border-radius: 20px;
+        padding: 10px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+}
+
+.wrapper5 {
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    display: flex;
+}
